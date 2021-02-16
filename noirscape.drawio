@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T12:29:33.142Z" agent="5.0 (Windows)" etag="jLzdDCblDVgtA44_5xVi" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T12:37:05.445Z" agent="5.0 (Windows)" etag="G_xFEqKzhBeqDwkeHmXD" version="13.9.7" type="github">
   <diagram id="ioYlywDVT_DXw8jL-yqH" name="Page-1">
-    <mxGraphModel dx="1453" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,28 +101,28 @@
           <mxGeometry x="1090" y="758" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_33-128.png;rounded=1;shadow=1;sketch=1;fillColor=#663300;gradientColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="128" height="128" as="geometry" />
+          <mxGeometry x="25" y="140" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-36" value="&lt;h1&gt;My Place&lt;br&gt;&lt;/h1&gt;&lt;p&gt;My place is the realworld setting of the participant&#39;s home. Where mysterious objects appear in mixed reality as fiction bleeds into the space.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="310" height="140" as="geometry" />
+          <mxGeometry x="136" y="130" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-37" value="&lt;h1&gt;Through the Keyhole&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The participant finds an augmented reality locked door and is able to look through the keyhole into a fictional world on the other side.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="188" y="494" width="310" height="140" as="geometry" />
+          <mxGeometry x="136" y="494" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/technology-straight-line/128/SVG_LINE_TECHNOLOGY-10-128.png;rounded=1;shadow=1;sketch=1;fillColor=#663300;gradientColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="790" width="128" height="128" as="geometry" />
+          <mxGeometry x="25" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7EeK4vwTGCE58HYFXyhD-40" value="&lt;h1&gt;Through the Door&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The participant goes through the door into immersive 360 fictional spaces.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="198" y="808" width="310" height="140" as="geometry" />
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-40" value="&lt;h1&gt;Through the Door&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The participant goes through the door into immersive 360 fictional spaces where they find&lt;br&gt;and interact with objects and fictional people.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="136" y="808" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/padlock-item/64/Padlock_lock_save-20-128.png;rounded=1;shadow=1;sketch=1;fillColor=#663300;gradientColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="10" y="460" width="178" height="178" as="geometry" />
+          <mxGeometry y="480" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7EeK4vwTGCE58HYFXyhD-44" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;labelBackgroundColor=#ffffff;sketch=1;gradientColor=none;fontSize=13;fontColor=#000000;rotation=90;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="330" width="120" height="80" as="geometry" />
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-44" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#333333;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7EeK4vwTGCE58HYFXyhD-45" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;labelBackgroundColor=#ffffff;sketch=1;gradientColor=none;fontSize=13;fontColor=#000000;rotation=90;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="660" width="120" height="80" as="geometry" />
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-45" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#333333;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="668" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=1;labelBackgroundColor=#ffffff;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="7EeK4vwTGCE58HYFXyhD-46" target="7EeK4vwTGCE58HYFXyhD-59">
           <mxGeometry relative="1" as="geometry" />
@@ -166,17 +166,35 @@
         <mxCell id="7EeK4vwTGCE58HYFXyhD-67" value="&lt;div style=&quot;font-size: 13px&quot;&gt;Place/Time to meet&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000066;sketch=1;shadow=1;labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="490" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="7EeK4vwTGCE58HYFXyhD-69" target="7EeK4vwTGCE58HYFXyhD-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-69" value="The Old Theatre&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1A1A1A;sketch=1;shadow=1;labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="465" y="1180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7EeK4vwTGCE58HYFXyhD-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/location_pin_position_map_navigation-128.png;rounded=1;shadow=1;sketch=1;fillColor=#000000;gradientColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1170" width="108" height="108" as="geometry" />
+          <mxGeometry x="36" y="1182" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7EeK4vwTGCE58HYFXyhD-72" value="&lt;h1&gt;Through the Door&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The participant goes through the door into immersive 360 fictional spaces.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="168" y="1170" width="272" height="140" as="geometry" />
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-72" value="&lt;h1&gt;My Town&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The participant goes into the realworld space of their local town where they have been directed to a place at a certain time.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1172" width="272" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7EeK4vwTGCE58HYFXyhD-73" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;labelBackgroundColor=#ffffff;sketch=1;gradientColor=none;fontSize=13;fontColor=#000000;rotation=90;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="990" width="120" height="80" as="geometry" />
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-73" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=13;fontColor=#333333;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="7EeK4vwTGCE58HYFXyhD-74" target="7EeK4vwTGCE58HYFXyhD-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-74" value="Meets Someone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000066;sketch=1;shadow=1;labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-76" value="&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Find Briefcase&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000066;sketch=1;shadow=1;labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;dashed=1;labelBackgroundColor=#ffffff;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="7EeK4vwTGCE58HYFXyhD-77" target="7EeK4vwTGCE58HYFXyhD-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EeK4vwTGCE58HYFXyhD-77" value="Talks With Them&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#006633;sketch=1;shadow=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1191" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
